@@ -5,7 +5,6 @@ The purpose of the project is to build a image classification web app that allow
 2) Preprocess the downloaded images and use them to train a convolutional neural network using keras with tensorflow-gpu as the backend (See **model-training.R**)
 3) Load the model outputted from the previous step and make predictions of new images (See **prediction.R**)
 4) Build a web app using the outputted model using Shiny (See **app.R**)
-5) Build an Android app with the web app created using Android Studio and WebView
 
 ## Built With
 
